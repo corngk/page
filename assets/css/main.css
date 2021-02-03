@@ -1637,7 +1637,7 @@
 		}
 
 	a {
-		text-decoration: underline;
+		text-decoration: none;
 	}
 
 		a:hover {
@@ -3512,7 +3512,7 @@
 	#banner {
 		background-color: #00cdcf;
 		color: #ffffff;
-		padding: 8em 0 6em 0;
+		padding: 12em 0 6em 0; /* 8em 0 6em 0; */
 		text-align: center;
 	}
 
