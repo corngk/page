@@ -1,9 +1,11 @@
 {
 	"folders": [
 		{
+			"name": "page",
 			"path": "."
 		},
 		{
+			"name": "Project 0",
 			"path": "..\\BYOL\\Project 0"
 		}
 	],
